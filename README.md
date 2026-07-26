@@ -1,56 +1,68 @@
-# Hi, I'm Inayat Shah 👋
+<h1 align="center">Hi 👋, I'm Inayat Shah</h1>
 
-### Software Engineer | Artificial Intelligence | Automation | Enterprise Systems
+<h3 align="center">
+Software Engineer • Artificial Intelligence • Automation • Enterprise Systems
+</h3>
 
-I build intelligent software that automates business workflows and solves real-world problems.
-
----
-
-## 🚀 Current Focus
-
-- Python Automation
-- AI Workflows
-- Business Process Automation
-- Enterprise Systems
-- Document Intelligence
+<p align="center">
+Building intelligent technology that solves real-world problems.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+
+- 💻 Software Engineering
+- 🤖 Artificial Intelligence
+- ⚙️ Business Process Automation
+- 🏢 Enterprise Systems
+- 📄 Intelligent Document Processing
+
+---
+
+## 🎯 Current Mission
+
+Building practical automation solutions that eliminate repetitive business work.
+
+Current flagship project:
+
+> **Project-001 — Invoice Intelligence Automation**
+
+---
+
+## 🛠 Tech Stack
 
 - Python
 - Git & GitHub
-- Microsoft Excel Automation
-- SQL (Learning)
-- APIs (Learning)
+- Excel Automation
+- SQL *(Learning)*
+- REST APIs *(Learning)*
 - Artificial Intelligence
 
 ---
 
-## 📌 Current Project
+## 🌱 Currently Learning
 
-### Project-001: Invoice Intelligence Automation
-
-A Python-based automation system that transforms invoices into structured business data, reducing repetitive manual work.
-
----
-
-## 🎯 Mission
-
-To build intelligent software that helps organizations work smarter through automation and AI.
-
----
-
-## 📈 Current Learning Journey
-
-- Python Fundamentals
+- Python
 - Business Automation
-- Enterprise Software Development
+- Enterprise Software
 - AI Integration
 - System Design
 
 ---
 
-## 🤝 Let's Connect
+## 📌 Long-Term Vision
 
-Always interested in collaborating on software engineering, automation, and AI projects.
+Building intelligent software that combines:
+
+- Artificial Intelligence
+- Automation
+- Enterprise Systems
+- Data Engineering
+- Cloud Technologies
+
+to solve real-world business challenges.
+
+---
+
+> *"Technology should remove repetitive work so people can focus on meaningful work."*
