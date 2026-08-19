@@ -15,23 +15,23 @@
 
 ## Professional Snapshot
 
-I build software deliberately: define the problem, separate the architecture, implement the smallest reliable system, test important behavior, and document what is complete and what remains. My public work currently shows Python development, desktop application engineering, multimedia integration, structured learning, and experimental intelligent tooling.
+I build software deliberately: define the problem, separate the architecture, implement reliable system boundaries, test important behavior, and document what is complete and what remains. My public work now shows Python systems engineering, desktop application architecture, multimedia pipelines, optional AI services, Windows packaging, and evidence-driven iteration.
 
-I work toward **AI systems architecture and business automation** by building visible evidence: modular software, explicit interfaces, testable workflows, clear failure handling, and honest project status. My current portfolio is an architecture-in-progress, with FindCut as the strongest implemented system and a deliberate roadmap toward data-driven and AI-assisted platforms.
+I work toward **AI systems architecture and business automation** by building visible evidence: modular software, explicit interfaces, testable workflows, clear failure handling, and honest project status. FindCut is my flagship systems project because it combines domain modeling, rendering infrastructure, human-facing tooling, optional AI, and reproducible delivery in one evolving product.
 
 ## Selected Work
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| [FindCut](https://github.com/SIUShah/Organized) | PySide6 desktop UI, FFmpeg integration, non-destructive project modeling, timeline services, tests, documentation, and Windows CI packaging | **Active development** |
+| [FindCut](https://github.com/SIUShah/Organized) | PySide6 desktop architecture, FFmpeg multitrack rendering, transitions, keyframe animation, waveform/loudness tooling, optional Whisper AI, tests, and Windows CI packaging | **Flagship / active** |
 | [Phase-01-Advanced-Python](https://github.com/SIUShah/Phase-01-Advanced-Python) | Python fundamentals, exercises, notes, and small practical systems | **Learning portfolio** |
 | [CRISPRMind](https://github.com/SIUShah/CRISPRMind) | Explicit idea transformations through Combine, Reverse, and Reframe operations | **Experimental** |
 
 ### Flagship: FindCut
 
-[FindCut](https://github.com/SIUShah/Organized) is a simple, free, offline-first Windows video and audio editor. Its current implementation includes a modular Python/PySide6 shell, FFmpeg media probing, a versioned project model, non-destructive timeline operations, project recovery backups, automated tests, and a GitHub Actions workflow that builds a Windows executable.
+[FindCut](https://github.com/SIUShah/Organized) is an offline-first Windows video and audio editor built as a real, test-backed desktop system. Its verified capabilities include multitrack FFmpeg composition, non-destructive trim/split/move/delete operations, fade transitions, animated opacity and volume keyframes, text overlays, waveform generation, loudness meters, project templates, optional Whisper SRT generation, and GitHub Actions Windows packaging.
 
-**Engineering honesty:** FindCut is not presented as production-ready. Multi-clip timeline rendering and edited MP4 export are implemented; synchronized interactive playback, advanced audio mixing, keyframe animation, and richer effects remain roadmap work.
+**Engineering honesty:** FindCut is a serious working foundation, not a claim of DaVinci Resolve parity. Advanced GPU playback, multicam editing, node compositing, plugin hosting, professional scopes, and full native-engine integration remain explicit milestones. The repository documents both implemented behavior and open engineering boundaries.
 
 ## Architecture Practice
 
@@ -55,9 +55,9 @@ The next portfolio systems will make these layers concrete through small, testab
 
 ## Capability Map
 
-**Building with evidence:** Python · PySide6 · Qt · FFmpeg · JSON persistence · automated testing · Git/GitHub · Windows packaging · technical documentation
+**Building with evidence:** Python · PySide6 · Qt · FFmpeg · non-destructive domain models · filter graphs · keyframe expressions · audio analysis · automated testing · GitHub Actions · Windows packaging · technical documentation
 
-**Developing next:** REST APIs · SQL · data validation · background jobs · observability · AI model integration · evaluation workflows
+**Developing next:** libopenshot/GStreamer adapters · REST APIs · SQL · data validation · background jobs · observability · AI model evaluation · business workflow automation
 
 **Exploring strategically:** retrieval-augmented systems · decision support · enterprise automation · human-in-the-loop workflows · scalable deployment
 
