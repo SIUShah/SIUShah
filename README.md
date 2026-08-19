@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/siushah-header.svg" alt="SIUShah — Python, systems, automation, and AI" width="100%" />
+  <img src="./assets/siushah-header-animated.gif" alt="SIUShah — animated futuristic profile header with circular title motion" width="100%" />
 </p>
 
 <p align="center">
