@@ -44,10 +44,20 @@
   <rect x="80" y="78" width="1440" height="1" fill="url(#line)" opacity=".7">
     <animate attributeName="y" values="78;442;78" dur="8s" repeatCount="indefinite"/>
   </rect>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
-    <text x="800" y="245" fill="#f8fafc" font-size="92" font-weight="700" letter-spacing="10">SIUShah</text>
-    <text x="800" y="302" fill="#a5f3fc" font-size="22" letter-spacing="6">PYTHON · SYSTEMS · AUTOMATION · AI</text>
-    <text x="800" y="354" fill="#c4b5fd" font-size="17" letter-spacing="2">BUILDING PRACTICAL SOFTWARE WITH EVIDENCE</text>
+  <g font-family="Arial, DejaVu Sans, sans-serif" text-anchor="middle">
+    <text x="800" y="245" fill="#f8fafc" font-size="92" font-weight="700" letter-spacing="10">SIUShah
+      <animate attributeName="opacity" values=".88;1;.88" dur="4.8s" repeatCount="indefinite"/>
+      <animate attributeName="letter-spacing" values="10;13;10" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="5.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="800" y="302" fill="#a5f3fc" font-size="22" letter-spacing="6">PYTHON · SYSTEMS · AUTOMATION · AI
+      <animate attributeName="opacity" values=".62;1;.62" dur="5.8s" repeatCount="indefinite"/>
+      <animate attributeName="letter-spacing" values="6;7.5;6" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="800" y="354" fill="#c4b5fd" font-size="17" letter-spacing="2">BUILDING PRACTICAL SOFTWARE WITH EVIDENCE
+      <animate attributeName="opacity" values=".55;.9;.55" dur="6.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 1;0 0" dur="8s" repeatCount="indefinite"/>
+    </text>
   </g>
   <rect x="28" y="28" width="1544" height="464" rx="20" fill="none" stroke="#67e8f9" stroke-opacity=".22"/>
 </svg>
