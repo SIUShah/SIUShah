@@ -17,11 +17,19 @@
   <a href="https://github.com/SIUShah/CRISPRMind"><img src="https://img.shields.io/badge/Explore-Intelligent%20Tools-111827?style=flat-square&logo=probot&logoColor=c4b5fd" alt="Intelligent Tools" /></a>
 </p>
 
+<p align="center">
+  <img src="./assets/futuristic-systems-field.svg" alt="Futuristic systems field" width="100%" />
+</p>
+
 ## Professional Snapshot
 
 I build software deliberately: define the problem, separate the architecture, implement reliable system boundaries, test important behavior, and document what is complete and what remains. My public work now shows Python systems engineering, desktop application architecture, multimedia pipelines, optional AI services, Windows packaging, and evidence-driven iteration.
 
 I work toward **AI systems architecture and business automation** by building visible evidence: modular software, explicit interfaces, testable workflows, clear failure handling, and honest project status. FindCut is my flagship systems project because it combines domain modeling, rendering infrastructure, human-facing tooling, optional AI, and reproducible delivery in one evolving product.
+
+<p align="center">
+  <img src="./assets/futuristic-systems-field.svg" alt="Animated systems background" width="100%" />
+</p>
 
 ## Selected Work
 
@@ -36,6 +44,10 @@ I work toward **AI systems architecture and business automation** by building vi
 [FindCut](https://github.com/SIUShah/Organized) is an offline-first Windows video and audio editor built as a real, test-backed desktop system. Its verified capabilities include multitrack FFmpeg composition, non-destructive trim/split/move/delete operations, fade transitions, animated opacity and volume keyframes, text overlays, waveform generation, loudness meters, project templates, optional Whisper SRT generation, and GitHub Actions Windows packaging.
 
 **Engineering honesty:** FindCut is a serious working foundation, not a claim of DaVinci Resolve parity. Advanced GPU playback, multicam editing, node compositing, plugin hosting, professional scopes, and full native-engine integration remain explicit milestones. The repository documents both implemented behavior and open engineering boundaries.
+
+<p align="center">
+  <img src="./assets/futuristic-systems-field.svg" alt="AI architecture signal field" width="100%" />
+</p>
 
 ## Architecture Practice
 
@@ -82,6 +94,10 @@ AI systems architecture
 ## What Employers Can Expect
 
 A portfolio organized around visible engineering evidence: readable repositories, explicit project status, reproducible setup instructions, meaningful commits, automated tests where appropriate, and documentation that explains design decisions. I am building the progression from application engineering to AI systems architecture through projects with clear inputs, outputs, interfaces, evaluation criteria, failure handling, and test evidence.
+
+<p align="center">
+  <img src="./assets/futuristic-systems-field.svg" alt="Animated AI systems roadmap background" width="100%" />
+</p>
 
 ## AI Systems Roadmap
 
