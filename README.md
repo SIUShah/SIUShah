@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/futuristic-systems-field.svg" alt="Animated futuristic AI systems architecture field" width="100%" />
+</p>
+
+<p align="center">
   <strong>AI Systems Architect · Python · Automation</strong><br>
   I design practical software systems that connect data, intelligence, workflows, and people.
 </p>
