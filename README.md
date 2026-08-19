@@ -1,79 +1,64 @@
-<h1 align="center">Inayat Shah</h1>
+<p align="center">
+  <img src="./assets/siushah-header.svg" alt="SIUShah — Python, systems, automation, and AI" width="100%" />
+</p>
 
 <p align="center">
   <strong>Python Developer building toward AI Systems Architecture</strong><br>
-  Practical automation, intelligent tools, and maintainable software systems.
+  I turn practical problems into maintainable software, automation workflows, and intelligent tools.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SIUShah/Organized">FindCut</a> ·
-  <a href="https://github.com/SIUShah/Phase-01-Advanced-Python">Python Engineering Journey</a> ·
-  <a href="https://github.com/SIUShah/CRISPRMind">CRISPRMind</a>
+  <a href="https://github.com/SIUShah/Organized"><img src="https://img.shields.io/badge/Flagship-FindCut-111827?style=flat-square&logo=windows-terminal&logoColor=67e8f9" alt="FindCut" /></a>
+  <a href="https://github.com/SIUShah/Phase-01-Advanced-Python"><img src="https://img.shields.io/badge/Focus-Python%20Engineering-111827?style=flat-square&logo=python&logoColor=67e8f9" alt="Python Engineering" /></a>
+  <a href="https://github.com/SIUShah/CRISPRMind"><img src="https://img.shields.io/badge/Explore-Intelligent%20Tools-111827?style=flat-square&logo=probot&logoColor=c4b5fd" alt="Intelligent Tools" /></a>
 </p>
 
-## What I Build
+## Professional Snapshot
 
-I use Python and software engineering practices to turn practical ideas into executable systems. My current work spans desktop software, structured Python learning projects, automation-oriented problem solving, and small intelligent tools.
+I build software deliberately: define the problem, separate the architecture, implement the smallest reliable system, test important behavior, and document what is complete and what remains. My public work currently shows Python development, desktop application engineering, multimedia integration, structured learning, and experimental intelligent tooling.
 
-The direction is deliberate: strengthen Python fundamentals, build reliable applications, integrate useful intelligence, and grow toward systems that support real business and operational decisions.
+I am developing toward **AI systems architecture and business automation** through projects that create visible evidence rather than inflated claims.
 
-## Current Focus
+## Selected Work
 
-| Area | Evidence in this portfolio |
-|---|---|
-| Python application engineering | Structured exercises and small systems in [Phase-01-Advanced-Python](https://github.com/SIUShah/Phase-01-Advanced-Python) |
-| Desktop and multimedia systems | [FindCut](https://github.com/SIUShah/Organized), a PySide6/FFmpeg Windows video and audio editor in active development |
-| Intelligent tools | [CRISPRMind](https://github.com/SIUShah/CRISPRMind), an idea-mutation engine with memory tracking |
-| Systems thinking | Architecture, persistence, testing, packaging, and documentation work in FindCut |
+| Project | What it demonstrates | Status |
+|---|---|---|
+| [FindCut](https://github.com/SIUShah/Organized) | PySide6 desktop UI, FFmpeg integration, non-destructive project modeling, timeline services, tests, documentation, and Windows CI packaging | **Active development** |
+| [Phase-01-Advanced-Python](https://github.com/SIUShah/Phase-01-Advanced-Python) | Python fundamentals, exercises, notes, and small practical systems | **Learning portfolio** |
+| [CRISPRMind](https://github.com/SIUShah/CRISPRMind) | Explicit idea transformations through Combine, Reverse, and Reframe operations | **Experimental** |
 
-## Featured Projects
+### Flagship: FindCut
 
-### FindCut — Desktop Video and Audio Editor
+[FindCut](https://github.com/SIUShah/Organized) is a simple, free, offline-first Windows video and audio editor. Its current implementation includes a modular Python/PySide6 shell, FFmpeg media probing, a versioned project model, non-destructive timeline operations, project recovery backups, automated tests, and a GitHub Actions workflow that builds a Windows executable.
 
-A free, offline-first Windows editor with a simple interface over a modular Python/PySide6 application layer and FFmpeg media backend. The repository demonstrates project modeling, non-destructive timeline operations, media inspection, testing, documentation, and GitHub Actions Windows packaging.
+**Engineering honesty:** FindCut is not presented as production-ready. Full multi-clip compositing, synchronized timeline playback, audio mixing, and a complete rendered-timeline export path are still roadmap work.
 
-**Status:** Active development. The current build is a validated foundation and editing workflow; full multi-clip compositing and synchronized timeline playback remain roadmap work.
+## Capability Map
 
-### Phase-01-Advanced-Python — Structured Engineering Journey
+**Building with:** Python · PySide6 · Qt · FFmpeg · JSON persistence · automated testing · Git/GitHub · Windows packaging · technical documentation
 
-A learning repository organized around Python exercises, notes, and small systems such as student, hotel, NADRA, and Daraz-oriented applications. It documents progression from fundamentals toward more structured software development.
+**Developing:** REST APIs · SQL · business-process automation · stronger software architecture · release engineering
 
-**Status:** Learning and development portfolio.
+**Exploring:** AI systems · decision-support tools · data processing · enterprise workflows · maintainable automation platforms
 
-### CRISPRMind — Idea Mutation Engine
-
-A lightweight tool for evolving ideas through operations such as Combine, Reverse, and Reframe, with memory tracking. It is a focused example of turning a conceptual workflow into a small reusable system.
-
-**Status:** Experimental project.
-
-## Technology Map
-
-**Building with:** Python, Git/GitHub, PySide6, FFmpeg integration, JSON persistence, automated testing, documentation, and Windows packaging workflows.
-
-**Developing:** REST APIs, SQL, business-process automation, stronger software architecture, and production-quality application practices.
-
-**Exploring:** AI systems, decision-support tools, data processing, enterprise workflows, and the design of maintainable automation platforms.
-
-## Engineering Roadmap
+## Development Direction
 
 ```text
 Python foundations
         ↓
-Structured applications and automation
+Structured applications
         ↓
-APIs, SQL, and data processing
+Automation, APIs, SQL, and data
         ↓
 Intelligent tools and business workflows
         ↓
-AI systems architecture and decision support
+AI systems architecture
 ```
 
-The next practical priorities are to deepen FindCut’s rendering and playback architecture, add stronger tests and release automation, improve API and data-system skills, and develop a substantial business-automation system whose claims are supported by working code and documentation.
+## What Employers Can Expect
 
-## How I Work
-
-I prefer evidence over inflated labels. A project should explain the problem, show the architecture, document how to run it, test important behavior, and state clearly what is complete and what remains. Meaningful features, bug fixes, tests, and documentation matter more than activity for its own sake.
+A portfolio organized around visible engineering evidence: readable repositories, explicit project status, reproducible setup instructions, meaningful commits, automated tests where appropriate, and documentation that explains design decisions. The current priority is to deepen FindCut while building a substantial Python business-automation system with clear inputs, outputs, failure handling, and test evidence.
 
 ## Collaboration
 
-I am interested in practical Python systems, automation, intelligent applications, and software architecture. The best way to evaluate my work is through the repositories and their implementation evidence.
+I am interested in practical Python systems, automation, intelligent applications, desktop software, and software architecture. The repositories are the best representation of my current capabilities and development trajectory.
