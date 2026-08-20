@@ -8,7 +8,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "assets" / "siushah-header-animated.gif"
 W, H = 1200, 390
-FRAMES = 18
+FRAMES = 48
 
 font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 regular_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
@@ -76,17 +76,14 @@ def frame(frame_index: int) -> Image.Image:
     shifted.alpha_composite(title_layer, (dx, dy))
     image = Image.alpha_composite(image, shifted)
     draw = ImageDraw.Draw(image, "RGBA")
-    capability = ["FFMPEG · PYSIDE6 · AI · WINDOWS", "PYTHON · SYSTEMS · AUTOMATION", "MULTITRACK MEDIA · KEYFRAMES · AUDIO", "ARCHITECTURE · TESTING · DELIVERY"][frame_index // 5 % 4]
+    capability = ["AI SYSTEMS ARCHITECT", "MULTITRACK MEDIA · AUTOMATION", "BUILDING WITH EVIDENCE"][frame_index // 16 % 3]
     bbox = draw.textbbox((0, 0), capability, font=subtitle_font)
     draw.text(((W - (bbox[2] - bbox[0])) / 2, 205), capability, font=subtitle_font, fill=(165, 243, 252, 245))
-    tagline = "BUILDING PRACTICAL SOFTWARE WITH EVIDENCE"
-    bbox = draw.textbbox((0, 0), tagline, font=small_font)
-    draw.text(((W - (bbox[2] - bbox[0])) / 2, 242), tagline, font=small_font, fill=(196, 181, 253, 225))
     draw.rounded_rectangle((14, 14, W - 14, H - 14), radius=16, outline=(103, 232, 249, 70), width=1)
     return image.convert("P", palette=Image.Palette.ADAPTIVE, colors=128)
 
 
 frames = [frame(index) for index in range(FRAMES)]
 OUT.parent.mkdir(parents=True, exist_ok=True)
-frames[0].save(OUT, save_all=True, append_images=frames[1:], duration=140, loop=0, optimize=True, disposal=2)
+frames[0].save(OUT, save_all=True, append_images=frames[1:], duration=180, loop=0, optimize=True, disposal=2)
 print(OUT)
